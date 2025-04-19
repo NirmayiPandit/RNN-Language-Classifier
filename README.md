@@ -125,4 +125,4 @@ The dataset `lang_id.npz`, image demonstrating `RNN`, and project skeleton are f
 ## Credits
 
 This project is based on the work by JasonFengGit / RNN-Language-Classifier. Changes have been made, including the addition of a model save and load feature.
->>>>>>> e6b32fc (Update Save and Load)
+
