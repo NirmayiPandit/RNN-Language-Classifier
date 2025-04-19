@@ -1,5 +1,5 @@
 # RNN-Language-Classifier
-<<<<<<< HEAD
+
 This project is an RNN-based language classifier designed to classify text into different languages. It uses a Recurrent Neural Network (RNN) to process and classify text data efficiently. I have added functionality to save and load the trained model using NumPy.
 =======
 
