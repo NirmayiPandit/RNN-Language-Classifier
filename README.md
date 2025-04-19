@@ -112,11 +112,10 @@ py run.py
 
 ## Improvements To Make
 
-- support save & load models
+
 - classify more languages
 - improve accuracy
 - classify a sentence or paragraph instead of words
-- ...
 
 ## _Reference_
 
